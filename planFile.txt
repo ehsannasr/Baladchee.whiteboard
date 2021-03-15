@@ -1,0 +1,31 @@
+** Greetings **
+
+
+99 - Q4 :
+
+1- Design insta template --- (Done)
+2- Prepare fot digital marketing --- (Done)
+3- Workingout subdomain for cusotmers  
+4- API check for delivery & payment 
+5- Improve Front-End (main-page) --- (Done) 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+400 - Q1 :
+
+1- Re-design insta page
+2- Design Sample vitrin pages for customers & Ads via them  ( release in market )
+3- Increase Marketing & Ads
+4- Initialize APIs ( co-working with Alopeyk )
+5- Start Content Making
+6- Get atleast 15 customers
+7- Preparing For android & ios app design
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+400 - Q2 :
+
+1- Increase Marketing & Ads
+2- Improve features 
+3- Get atleast 70 customers
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
